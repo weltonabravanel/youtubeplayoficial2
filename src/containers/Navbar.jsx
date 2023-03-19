@@ -23,7 +23,7 @@ const Navbar = () => {
               </svg>
             <h1 className="ml-2 font-semibold text-2xl text-slate-200">
               <span className=" text-red-500"></span>{""}
-            <img src="../images/logo.png" alt="logo" width={100} height={100} />
+            <img src="https://logosmarcas.net/wp-content/uploads/2020/04/YouTube-S%C3%ADmbolo.jpg" alt="logo" width={100} height={100} />
             </h1>
             
           </Link>
